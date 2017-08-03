@@ -2,7 +2,7 @@
 
 ## pre-request
 
-before you start this you need to install
+before you start you need to install
 [meteor](https://www.meteor.com/install)
 
 
