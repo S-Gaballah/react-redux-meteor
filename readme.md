@@ -16,6 +16,6 @@ meteor npm install
 meteor npm start
 ```
 
-now run you browser and open
+now run your browser and open
 ```
 http://localhost:3000/
